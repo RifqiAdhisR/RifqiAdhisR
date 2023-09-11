@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Rifqi Adhistira R**.
 
-Saya seorang **Pelajar** di [IT-PLN](https://itpln.ac.id/).
+Saya seorang **FrashGraduate** dari [IT-PLN](https://itpln.ac.id/) di Jurusan S1 Teknik Informatika.
 
 Saya merupakan pemula pada GitHub ini, jadi mohon kerja sama dan bantuannya.
 
